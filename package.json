@@ -1,0 +1,23 @@
+{
+  "name": "ssactivewear-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.14.3",
+    "node-fetch": "^2.7.0",
+<<<<<<< HEAD
+    "stream-chain": "^3.4.0",
+=======
+>>>>>>> ceb8089a78bffdfbcd0a5313553e0f000e24e68a
+    "stream-json": "^1.9.1"
+  }
+}
